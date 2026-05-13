@@ -610,7 +610,7 @@ input:focus {
 
 .order-form input {
     border-radius: 5px;
-    width: 250px;
+    width: 100%;
     height: 38px;
     background-color: #fff;
     box-shadow: none;
