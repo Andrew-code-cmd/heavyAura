@@ -15,8 +15,10 @@
 | Корзина         | Django Sessions + Fetch API               |
 | Аутентификация  | Django Auth + Custom User Model           |
 
+<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/aa00272b-01a7-45e2-bd8c-0abf320388c7" />
 <img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/7ec3055d-4ebc-4d96-8aec-613d5e623b87" />
-<img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/0cdbdd64-185b-44c9-986f-913496f10806" />
+<img width="1916" height="944" alt="image" src="https://github.com/user-attachments/assets/f7a88871-8313-4f37-9c5f-e733da84ea14" />
+
 
 
 
