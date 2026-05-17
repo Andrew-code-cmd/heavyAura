@@ -11,11 +11,11 @@
 
 ## Стек технологий
 
-| Backend         | Django, Python                            |   
-| База данных     | PostgreSQL                                |
-| Frontend        | HTML5, CSS3 (Flexbox/Grid), Vanilla JS    |
-| Корзина         | Django Sessions + Fetch API               |
-| Аутентификация  | Django Auth + Custom User Model           |
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/aa00272b-01a7-45e2-bd8c-0abf320388c7" />
 <img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/7ec3055d-4ebc-4d96-8aec-613d5e623b87" />
