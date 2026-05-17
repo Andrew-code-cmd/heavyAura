@@ -1,4 +1,4 @@
-#  HeavyAura | Gothic Jewelry Store
+#  HeavyAura | Готический ювелирный магазин
 
 > **E-commerce платформа для тех, кто носит тьму с достоинством.** 
 
