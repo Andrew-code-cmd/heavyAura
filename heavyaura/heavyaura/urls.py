@@ -10,6 +10,7 @@ urlpatterns = [
     path('cart', include('cart.urls', namespace='cart')),
     path('user/', include('users.urls', namespace='user')),
     path('orders/', include('orders.urls', namespace='orders')),
+    path('payment/', include('payment.urls', namespace='payment')),
     path('', include('main.urls', namespace='main')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 

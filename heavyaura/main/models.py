@@ -60,6 +60,5 @@ class Product(models.Model):
     def sell_price(self):
         if self.discount: # возвращаем сумму с учетом скидки, если она есть
             return round(self.price - self.price * self.discount / 100, 2)
-        
-    
+        return self.price
 
