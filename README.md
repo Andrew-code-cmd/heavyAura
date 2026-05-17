@@ -1,4 +1,4 @@
-# 🦇 DarkGlamour | Gothic Jewelry Store
+#  HeavyAura | Gothic Jewelry Store
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white&color=black)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-5.0-092E20?logo=django&logoColor=white&color=black)](https://djangoproject.com)
