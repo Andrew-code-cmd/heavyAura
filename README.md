@@ -1,3 +1,10 @@
+# 🦇 DarkGlamour | Gothic Jewelry Store
+
+[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white&color=black)](https://python.org)
+[![Django](https://img.shields.io/badge/Django-5.0-092E20?logo=django&logoColor=white&color=black)](https://djangoproject.com)
+[![Postgres](https://img.shields.io/badge/PostgreSQL-15-4169E1?logo=postgresql&logoColor=white&color=black)](https://postgresql.org)
+[![License](https://img.shields.io/badge/License-MIT-purple?color=black)](LICENSE)
+
 > **E-commerce платформа для тех, кто носит тьму с достоинством.** 
 
 ##  Особенности, от которых мурашки по коже
